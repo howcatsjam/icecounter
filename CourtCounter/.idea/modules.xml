@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CourtCounter.iml" filepath="$PROJECT_DIR$/CourtCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ice Counter/Ice Counter.iml" filepath="$PROJECT_DIR$/Ice Counter/Ice Counter.iml" />
+      <module fileurl="file://C:\Users\mclea\AndroidStudioProjects\CourtCounter\Ice Counter\app.iml" filepath="C:\Users\mclea\AndroidStudioProjects\CourtCounter\Ice Counter\app.iml" />
+    </modules>
+  </component>
+</project>
